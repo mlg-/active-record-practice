@@ -1,1 +1,1 @@
-Working through a basic lesson on ActiveRecord.
+AR tutorial.
